@@ -1,0 +1,25 @@
+{
+  "name": "obniz-ambient-simple-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tmitsuoka0423/obniz-ambient-simple-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmitsuoka0423/obniz-ambient-simple-sample/issues"
+  },
+  "homepage": "https://github.com/tmitsuoka0423/obniz-ambient-simple-sample#readme",
+  "dependencies": {
+    "ambient-lib": "^1.0.4",
+    "dotenv": "^10.0.0",
+    "obniz": "^3.16.0"
+  }
+}
